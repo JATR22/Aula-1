@@ -36,7 +36,9 @@ public class Teste {
 		{
 		System.out.println(i);
 		}
-        System.out.println(Alteração);
+        System.out.println(Alteração
+        
+        ç,lç mçl,mçl);
 	consola.close();
 		}
 	}
